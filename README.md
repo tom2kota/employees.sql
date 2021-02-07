@@ -15,3 +15,5 @@ Once this process is ready, open the script (SQL file) file from [Workbench](htt
 - [Configure database connections](https://www.jetbrains.com/help/phpstorm/2020.3/configuring-database-connections.html)
 - [Tableau Desktop](https://www.tableau.com/products/desktop/download)
 - [TableauDesktop-64bit-2020-4-1.exe](https://downloads.tableau.com/tssoftware/TableauDesktop-64bit-2020-4-1.exe)
+- [Tableau Online](https://www.tableau.com/products/cloud-bi)
+- [TableauOnlineDesktop-2020-4-1-x64.exe](https://downloads.tableau.com/tssoftware/TableauOnlineDesktop-2020-4-1-x64.exe)
