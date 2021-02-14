@@ -1,11 +1,23 @@
 # employees.sql
 [employees.sql](https://github.com/tom2kota/employees.sql/blob/main/employees_db.pdf)
 
-[Download](https://github.com/tom2kota/employees.sql/blob/main/employees.zip) and unzip [file with the database](https://github.com/tom2kota/employees.sql/blob/main/employees.zip) named “employees”.
+- [Download](https://github.com/tom2kota/employees.sql/blob/main/employees.zip) and unzip [file with the database](https://github.com/tom2kota/employees.sql/blob/main/employees.zip) named “employees”.
 
-Once this process is ready, open the script (SQL file) file from [Workbench](https://dev.mysql.com/downloads/workbench/).
+- Once this process is ready, open the script (SQL file) file from [Workbench](https://dev.mysql.com/downloads/workbench/).
 
 ![img](employees_db.png)
+
+![img](employees_mod_db.png)
+
+- Run the following query:
+
+```
+
+```
+
+- Here’s the output you should obtain after executing the code provided:
+
+![img](content-of-the-employees_mod-database.png)
 
 --------
 
