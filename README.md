@@ -5,7 +5,7 @@
 
 Once this process is ready, open the script (SQL file) file from [Workbench](https://dev.mysql.com/downloads/workbench/).
 
-
+![img](employees_db.png)
 
 --------
 
