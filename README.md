@@ -9,15 +9,32 @@
 
 ![img](employees_mod_db.png)
 
-- Run the following query:
+## Task 1
+#### Create a visualization that provides a breakdown between the male and female employees working in the company each year, starting from 1990.
+
+- Run the following query ([download](task_one/task_one.sql)):
 
 ```
-
+    SELECT YEAR(d.from_date) as calendar_year, gender, COUNT(e.emp_no) as num_of_employees
+    FROM t_employees e JOIN t_dept_emp d
+    on d.emp_no = e.emp_no
+    GROUP BY calendar_year, e.gender
+    HAVING calendar_year >= 1990;
 ```
 
 - Here’s the output you should obtain after executing the code provided:
 
 ![img](content-of-the-employees_mod-database.png)
+
+
+- Export data to .csv file ([download](task_one/GenderByYears_task_one.csv))
+or .xls file ([download](task_one/task_one.xls))
+  
+- Check the result:
+  ![img](task_one/GenderByYears_task_one.png)
+
+
+
 
 --------
 
