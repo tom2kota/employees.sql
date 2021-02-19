@@ -138,7 +138,15 @@ CALL filter_salary(50000, 90000);
 - Check the result:
   ![img](task_four/GenderBySalaryRange_task_four.png)
 
+--------
 
+## Task 5
+
+#### Create a Dashboard of two charts.
+
+
+- Check the result:
+  ![img](task_five/DashBoard.png)
 
 --------
 
